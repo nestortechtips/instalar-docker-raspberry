@@ -85,4 +85,4 @@ Puedes contribuir utilizando **Pull Requests** en el repositorio correspondiente
 * `perengano`
 
 ## Créditos
-El contenido de este repositorio corresponde a la publicación homónima en [nestortechtips.online](https://nestortechtips.online). 
+El contenido de este repositorio corresponde a la publicación homónima en [nestortechtips.online](https://nestortechtips.online/instalar-docker-en-ubuntu-18-04-raspberry-pi/). 
