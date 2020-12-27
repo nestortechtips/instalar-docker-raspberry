@@ -1,4 +1,4 @@
-![Nestor Tech Tips](https://nestortechtips.online/wp-content/uploads/2020/10/cropped-default-2-1.png)
+![Nestor Tech Tips](https://storage.googleapis.com/nestortechtips.online/cover.png)
 # Cómo instalar Docker en Ubuntu 18.04 corriendo en Raspberry Pi
 
 El día de hoy vamos a instalar Docker en una Raspberry Pi 3B ejecutando Ubuntu 18.04
